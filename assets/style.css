@@ -1,3 +1,16 @@
 body{
-  background-color: brown;
+  background-image: url(../assets/img/empty-top-wooden-table-with-supermarket-blur-background_36051-467.avif );
+  background-size: cover;
+}
+h1{
+  font-size: 5rem;
+  color: rgb(0, 0, 0);
+}
+
+#main {
+  width: 40%;
+}
+
+#main2,#main3,#main4 {
+  width: 15%;
 }
